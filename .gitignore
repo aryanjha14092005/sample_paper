@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Airflow files
+airflow.db
+airflow.cfg
+logs/
+simple_auth_manager_passwords.json.generated
